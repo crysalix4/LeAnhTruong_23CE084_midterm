@@ -1,0 +1,27 @@
+# Compiled programs and objects
+/myls
+/myls-sanitize
+*.o
+*.obj
+*.exe
+*.out
+*.d
+*.gcda
+*.gcno
+*.gcov
+core
+core.*
+
+# Editor, OS and temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*~
+*.swp
+__pycache__/
+*.py[cod]
+/tmp/
+/build/
+/test-results/
